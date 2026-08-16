@@ -3,7 +3,7 @@ id: "e1324d21-5183-4c2b-b800-216e74f39d98"
 title: "Embracing Simplicity on Your Birthday"
 tl_dr: "Celebrate your birthday by treating it like any other day."
 created_at: "2026-06-19T17:20:49.115313+00:00"
-updated_at: "2026-08-16T14:08:52.732719+00:00"
+updated_at: "2026-08-16T14:08:54.458416+00:00"
 source: "web"
 ---
 
