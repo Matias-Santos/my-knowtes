@@ -3,7 +3,7 @@ id: "a8d02437-4100-4cae-8c8d-ff43b580a7ca"
 title: "System Test: Note Linking Showcase"
 tl_dr: "A test demonstrating how notes are created and linked to one another."
 created_at: "2026-08-16T20:27:31.401915+00:00"
-updated_at: "2026-08-16T23:40:37.725605+00:00"
+updated_at: "2026-08-16T23:40:39.036475+00:00"
 source: "web"
 ---
 
