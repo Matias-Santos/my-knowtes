@@ -3,7 +3,7 @@ id: "aa7970d4-5010-4643-93b9-3bc0f5b1e6ee"
 title: "System Test: Voice-to-Knowte Pipeline"
 tl_dr: "A test recording was made to verify the voice transcription and worker translation pipeline is functioning correctly."
 created_at: "2026-06-19T17:20:50.368129+00:00"
-updated_at: "2026-08-16T14:24:46.892874+00:00"
+updated_at: "2026-08-16T20:01:22.653232+00:00"
 source: "web"
 ---
 
