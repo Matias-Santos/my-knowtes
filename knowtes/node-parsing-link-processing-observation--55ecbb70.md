@@ -3,7 +3,7 @@ id: "55ecbb70-d225-420a-8e15-a8faecf2b7b6"
 title: "Node Parsing & Link Processing Observation"
 tl_dr: "Nodes and their links are both being parsed and processed correctly."
 created_at: "2026-08-16T15:50:02.644481+00:00"
-updated_at: "2026-08-17T14:18:00.883651+00:00"
+updated_at: "2026-08-17T14:27:33.060554+00:00"
 source: "web"
 ---
 
