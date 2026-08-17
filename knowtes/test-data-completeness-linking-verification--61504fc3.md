@@ -3,7 +3,7 @@ id: "61504fc3-c59c-4410-b359-a7a60f277cef"
 title: "Test: Data Completeness & Linking Verification"
 tl_dr: "A test to verify that notes contain complete data and that linking between notes functions correctly."
 created_at: "2026-06-19T17:20:50.678428+00:00"
-updated_at: "2026-06-21T20:54:25.223537+00:00"
+updated_at: "2026-08-17T15:10:59.770016+00:00"
 source: "claude-sonnet-4-6"
 ---
 
