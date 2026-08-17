@@ -3,7 +3,7 @@ id: "39a52f88-afb8-45a3-b4ed-63d00a8e8f23"
 title: "System Test: Background AI Processing"
 tl_dr: "A test to verify that recording is functioning correctly and that AI processing can run in the background."
 created_at: "2026-07-06T19:33:21.999384+00:00"
-updated_at: "2026-07-06T19:33:21.999396+00:00"
+updated_at: "2026-08-17T15:11:10.301312+00:00"
 source: "claude-sonnet-4-6"
 ---
 
