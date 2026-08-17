@@ -3,7 +3,7 @@ id: "3af1ea75-ae5e-4878-b539-0f2f4a04f9fb"
 title: "AI Flow Test: Multi-Note Recording"
 tl_dr: "A test to verify the new AI flow supports recording multiple notes sequentially without interrupting the user's momentum."
 created_at: "2026-07-06T15:55:59.442212+00:00"
-updated_at: "2026-07-06T15:55:59.442230+00:00"
+updated_at: "2026-08-17T15:11:13.834053+00:00"
 source: "claude-sonnet-4-6"
 ---
 
