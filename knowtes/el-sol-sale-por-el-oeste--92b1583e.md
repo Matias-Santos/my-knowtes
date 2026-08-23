@@ -3,7 +3,7 @@ id: "92b1583e-4f60-4db6-bfcd-d9fc7d815d6b"
 title: "El Sol Sale por el Oeste"
 tl_dr: "Se afirma que el sol sale por el oeste, lo cual es incorrecto."
 created_at: "2026-08-23T18:22:29.262376+00:00"
-updated_at: "2026-08-23T23:34:52.441006+00:00"
+updated_at: "2026-08-23T23:34:55.734240+00:00"
 source: "web"
 ---
 
