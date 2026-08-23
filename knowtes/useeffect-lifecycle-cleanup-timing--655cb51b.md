@@ -3,8 +3,8 @@ id: "655cb51b-4368-4ce7-87a3-e37432b6e32e"
 title: "useEffect Lifecycle & Cleanup Timing"
 tl_dr: "A useEffect runs after mount and on dependency changes; its cleanup runs before each re-run and on unmount to prevent resource leaks."
 created_at: "2026-08-23T23:34:35.811560+00:00"
-updated_at: "2026-08-23T23:34:35.811572+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-08-23T23:34:48.172277+00:00"
+source: "web"
 ---
 
 # useEffect Lifecycle & Cleanup Timing
