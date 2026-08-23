@@ -3,8 +3,8 @@ id: "84dea103-3b29-466d-a9b6-1bf6da801091"
 title: "Flujo de Grabación y Guardado Automático"
 tl_dr: "Al terminar de grabar, la información se guarda automáticamente en el sistema."
 created_at: "2026-08-23T18:20:32.749683+00:00"
-updated_at: "2026-08-23T18:20:32.749692+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-08-23T19:28:50.874232+00:00"
+source: "web"
 ---
 
 # Flujo de Grabación y Guardado Automático
