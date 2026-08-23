@@ -3,8 +3,8 @@ id: "13d7f9c6-846b-4a44-9d42-84ebec6f6db8"
 title: "React.memo, useMemo & useCallback: Render Optimization"
 tl_dr: "React.memo prevents unnecessary child re-renders, while useMemo and useCallback preserve stable references across renders."
 created_at: "2026-08-23T23:45:12.614371+00:00"
-updated_at: "2026-08-23T23:45:12.614379+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-08-23T23:45:16.929990+00:00"
+source: "web"
 ---
 
 # React.memo, useMemo & useCallback: Render Optimization
