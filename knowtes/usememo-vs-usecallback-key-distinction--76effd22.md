@@ -3,7 +3,7 @@ id: "76effd22-1779-45a1-af50-9cb8e28808ab"
 title: "useMemo vs useCallback: Key Distinction"
 tl_dr: "useMemo returns a cached computed value, while useCallback returns a cached function reference — both recompute only when dependencies change."
 created_at: "2026-08-23T23:39:36.103850+00:00"
-updated_at: "2026-08-23T23:59:11.514507+00:00"
+updated_at: "2026-08-24T00:02:53.268124+00:00"
 source: "web"
 ---
 
