@@ -3,8 +3,8 @@ id: "e14dd097-8628-463e-89df-411bb1840cad"
 title: "useState vs useRef: Choosing the Right Hook"
 tl_dr: "Use useState for values that drive UI output; use useRef for values that must persist across renders without triggering re-renders."
 created_at: "2026-08-24T00:06:15.353450+00:00"
-updated_at: "2026-08-24T00:06:15.353461+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-08-24T00:39:12.047901+00:00"
+source: "web"
 ---
 
 # useState vs useRef: Choosing the Right Hook
