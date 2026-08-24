@@ -3,7 +3,7 @@ id: "0ef076eb-704e-4c92-936b-2b2a08086109"
 title: "React useEffect Dependency Array"
 tl_dr: "The dependency array tells React which reactive values trigger re-synchronization of an effect when they change."
 created_at: "2026-08-23T23:23:39.533087+00:00"
-updated_at: "2026-08-23T23:50:04.455309+00:00"
+updated_at: "2026-08-24T00:03:03.983713+00:00"
 source: "web"
 ---
 
