@@ -3,7 +3,7 @@ id: "ecf68362-d4de-428e-884f-11a8f0f981ae"
 title: "useCallback: Memoization & Stale Closure Risk"
 tl_dr: "useCallback memoizes a function across renders, but incorrect dependencies can trap stale values inside a closure."
 created_at: "2026-08-23T23:52:49.056082+00:00"
-updated_at: "2026-08-23T23:59:09.972198+00:00"
+updated_at: "2026-08-24T00:02:50.102412+00:00"
 source: "web"
 ---
 
