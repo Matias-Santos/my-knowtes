@@ -3,7 +3,7 @@ id: "c776d9f5-d831-4d9c-b9cb-1c7472dcbfc3"
 title: "useCallback: Stable Function References"
 tl_dr: "useCallback prevents memoized child components from re-rendering by keeping the parent's function reference stable across renders."
 created_at: "2026-08-23T23:49:50.724027+00:00"
-updated_at: "2026-08-23T23:59:14.247942+00:00"
+updated_at: "2026-08-24T00:02:45.957545+00:00"
 source: "web"
 ---
 
