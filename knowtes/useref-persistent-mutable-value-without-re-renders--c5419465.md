@@ -3,7 +3,7 @@ id: "c5419465-7708-455a-8828-f15d3829838d"
 title: "useRef: Persistent Mutable Value Without Re-renders"
 tl_dr: "useRef persists a mutable value across renders via .current without triggering re-renders when it changes."
 created_at: "2026-08-24T00:02:27.300375+00:00"
-updated_at: "2026-08-24T00:13:58.106653+00:00"
+updated_at: "2026-08-24T00:39:04.304875+00:00"
 source: "web"
 ---
 
