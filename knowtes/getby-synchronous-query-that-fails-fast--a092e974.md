@@ -3,8 +3,8 @@ id: "a092e974-4e59-41e8-85f4-0fb3f4c38922"
 title: "getBy: Synchronous Query That Fails Fast"
 tl_dr: "getBy queries assert immediate DOM presence — if the element isn't there right now, the test throws."
 created_at: "2026-08-27T22:29:50.305094+00:00"
-updated_at: "2026-08-27T22:29:50.305109+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-08-28T22:06:01.622846+00:00"
+source: "web"
 ---
 
 # getBy: Synchronous Query That Fails Fast
