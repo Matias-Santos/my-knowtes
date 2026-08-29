@@ -3,7 +3,7 @@ id: "fad29bda-2e21-4af4-98ed-a945c804308f"
 title: "RTL Query & Event Cheatsheet"
 tl_dr: "Match the right RTL query or event utility to the scenario: getBy for immediate presence, findBy for async appearance, queryBy for absence, userEvent for interactions, and waitFor for deferred expectations."
 created_at: "2026-08-28T13:08:42.445901+00:00"
-updated_at: "2026-08-29T14:49:16.633921+00:00"
+updated_at: "2026-08-29T14:50:37.269344+00:00"
 source: "web"
 ---
 
