@@ -3,8 +3,8 @@ id: "fc361626-9c1a-4eac-b009-dcb9a2d35121"
 title: "findBy: Async-Aware Query That Waits"
 tl_dr: "findBy waits for an element to appear in the DOM after an asynchronous operation, unlike getBy which checks immediately."
 created_at: "2026-08-27T23:34:50.218905+00:00"
-updated_at: "2026-08-27T23:34:50.218916+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-08-29T14:49:15.287699+00:00"
+source: "web"
 ---
 
 # findBy: Async-Aware Query That Waits
