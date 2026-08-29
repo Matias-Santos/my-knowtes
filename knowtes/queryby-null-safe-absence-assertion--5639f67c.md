@@ -3,7 +3,7 @@ id: "5639f67c-134d-4ccc-95aa-93965fb38263"
 title: "queryBy: Null-Safe Absence Assertion"
 tl_dr: "queryBy returns null when an element is not found, making it the right choice for asserting something is absent from the DOM."
 created_at: "2026-08-27T22:30:33.756026+00:00"
-updated_at: "2026-08-29T14:49:09.854171+00:00"
+updated_at: "2026-08-29T14:50:34.186340+00:00"
 source: "web"
 ---
 
