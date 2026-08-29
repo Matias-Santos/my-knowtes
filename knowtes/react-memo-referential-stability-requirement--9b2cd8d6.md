@@ -3,7 +3,7 @@ id: "9b2cd8d6-a019-4af9-96ef-9e6281498f8e"
 title: "React.memo: Referential Stability Requirement"
 tl_dr: "React.memo only prevents re-renders when props are referentially stable — inline objects, arrays, or functions created on each render will defeat it."
 created_at: "2026-08-24T00:27:01.724747+00:00"
-updated_at: "2026-08-29T14:49:29.091943+00:00"
+updated_at: "2026-08-29T14:49:41.000416+00:00"
 source: "web"
 ---
 
