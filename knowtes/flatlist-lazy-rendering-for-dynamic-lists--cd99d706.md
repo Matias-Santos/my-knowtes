@@ -3,7 +3,7 @@ id: "cd99d706-7b20-45fb-a421-8f1783e93a64"
 title: "FlatList: Lazy Rendering for Dynamic Lists"
 tl_dr: "FlatList renders items lazily as you scroll, making it preferable to ScrollView for dynamic or long lists."
 created_at: "2026-08-24T00:13:35.974768+00:00"
-updated_at: "2026-08-29T14:50:41.812557+00:00"
+updated_at: "2026-08-29T14:50:43.252910+00:00"
 source: "web"
 ---
 
