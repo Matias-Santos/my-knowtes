@@ -1,9 +1,9 @@
 ---
 id: "89c90fa4-9611-4225-85df-66c9f3c3d077"
 title: "Traduccion de buenas noticias"
-tl_dr: ""
+tl_dr: "Noticias traducidas a multiples lenguajes."
 created_at: "2026-09-01T23:13:46.033572+00:00"
-updated_at: "2026-09-01T23:18:55.845511+00:00"
+updated_at: "2026-09-01T23:19:06.728949+00:00"
 source: "web"
 ---
 
