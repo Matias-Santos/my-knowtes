@@ -3,7 +3,7 @@ id: "89c90fa4-9611-4225-85df-66c9f3c3d077"
 title: "Traduccion al japones"
 tl_dr: ""
 created_at: "2026-09-01T23:13:46.033572+00:00"
-updated_at: "2026-09-01T23:16:37.960452+00:00"
+updated_at: "2026-09-01T23:16:41.120140+00:00"
 source: "web"
 ---
 
@@ -17,7 +17,7 @@ Asi que dale like
 
 You are about to get good news after good news.
 
-The better you treat  
+The better you treat this, the better 
 
 Vas a atraer buenas noticias ttas buenas noticias
 
