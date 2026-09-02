@@ -3,7 +3,7 @@ id: "4b6207cb-4f4e-4954-815f-b6fdfd74d899"
 title: "useState: Functional Updates for Safe State"
 tl_dr: "When next state depends only on previous state, use a functional update (e.g., setCount(c => c + 1)) to avoid stale state and reduce dependencies."
 created_at: "2026-08-23T23:58:57.789733+00:00"
-updated_at: "2026-08-29T14:49:50.397313+00:00"
+updated_at: "2026-09-02T17:02:40.924597+00:00"
 source: "web"
 ---
 
