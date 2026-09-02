@@ -3,7 +3,7 @@ id: "4386e016-8976-4d15-b709-03a188c114ff"
 title: "AI as a Safe Space for Unfiltered Thinking"
 tl_dr: "Interacting with AI feels psychologically safe, lowering the barrier to capturing raw, authentic thoughts."
 created_at: "2026-09-01T19:53:45.696344+00:00"
-updated_at: "2026-09-02T13:28:38.442112+00:00"
+updated_at: "2026-09-02T17:02:42.905485+00:00"
 source: "web"
 ---
 
