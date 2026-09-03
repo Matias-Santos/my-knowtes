@@ -3,10 +3,10 @@ id: "86947e86-8367-4f1d-8c15-fa18d67b5bd8"
 title: "React Native Testing Library"
 tl_dr: ""
 created_at: "2026-09-03T13:52:17.388062+00:00"
-updated_at: "2026-09-03T13:53:01.534821+00:00"
+updated_at: "2026-09-03T13:53:04.217493+00:00"
 source: "web"
 ---
 
 # React Native Testing Library
 
-A note covering all the react native testing library functions and utilities, and how to use them on 
+A note covering all the react native testing library functions and utilities, and how to use them on any test
