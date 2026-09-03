@@ -3,23 +3,41 @@ id: "fbea18c0-071e-482e-a199-ba2fb04ee76d"
 title: "React Native Unit Testing: Topic Map"
 tl_dr: "A structured overview of the core topics relevant to unit testing in React Native."
 created_at: "2026-09-03T13:43:04.393383+00:00"
-updated_at: "2026-09-03T13:44:00.417787+00:00"
+updated_at: "2026-09-03T13:51:57.081624+00:00"
 source: "web"
 ---
 
 # React Native Unit Testing: Topic Map
 
-## Key Topic Areas
+## Test Runners & Frameworks
+- **Jest** is the standard test runner; configure via `jest.config.js` with appropriate Babel transforms for React Native.
 
-- **Test runners & frameworks**: Jest is the standard test runner for React Native; understand configuration via `jest.config.js` and Babel transforms.
-- **React Native Testing Library (RNTL)**: The primary tool for rendering components in tests; covers `render`, `fireEvent`, `waitFor`, and queries (`getByText`, `getByTestId`, etc.).
-- **Mocking**: Mocking native modules, third-party libraries, navigation (React Navigation), and async operations (timers, fetch, AsyncStorage).
-- **Component testing**: Testing rendered output, user interactions, conditional rendering, and props-driven behavior.
-- **Hook testing**: Using `renderHook` from RNTL or `@testing-library/react-hooks` to test custom hooks in isolation.
-- **Async testing**: Handling promises, `async/await`, and `act()` to flush side effects and state updates.
-- **Snapshot testing**: Creating and updating snapshots; knowing when snapshots are useful vs. when they add noise.
-- **Code coverage**: Configuring Jest coverage thresholds and interpreting coverage reports.
+## React Native Testing Library (RNTL)
+- Primary tool for rendering components in tests.
+- Key APIs: `render`, `fireEvent`, `waitFor`.
+- Common queries: `getByText`, `getByTestId`, and related variants.
+
+## Mocking
+- Native modules, third-party libraries, React Navigation, async operations (timers, `fetch`, `AsyncStorage`).
+
+## Component Testing
+- Rendered output, user interactions, conditional rendering, and props-driven behavior.
+
+## Hook Testing
+- Use `renderHook` from RNTL or `@testing-library/react-hooks` to test custom hooks in isolation.
+
+## Async Testing
+- Handle promises and `async/await` correctly.
+- Use `act()` to flush side effects and state updates before asserting.
+
+## Snapshot Testing
+- Create and update snapshots with Jest.
+- Use snapshots for stable UI; avoid them where they generate noise without catching real regressions.
+
+## Code Coverage
+- Configure coverage thresholds in Jest.
+- Interpret reports to identify untested branches, not just line coverage.
 
 ## Insight
 
-Unit testing in React Native has more surface area than web React because native modules must be mocked explicitly. Prioritize learning RNTL queries and native module mocking first — those two topics surface in almost every React Native testing interview and block real test-writing if misunderstood.
+Hook testing and async testing are the areas most likely to trip up developers in interviews and production alike — prioritise `renderHook` and `act()` patterns early, as they underpin almost every other testing scenario in this map.
