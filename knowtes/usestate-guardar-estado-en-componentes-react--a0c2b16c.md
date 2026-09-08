@@ -3,8 +3,8 @@ id: "a0c2b16c-8420-4354-a264-67a8958db9ac"
 title: "useState: Guardar Estado en Componentes React"
 tl_dr: "useState se usa para guardar y gestionar el estado interno de los componentes de React."
 created_at: "2026-09-03T11:35:30.011326+00:00"
-updated_at: "2026-09-03T11:35:30.011341+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-09-08T15:05:44.846586+00:00"
+source: "web"
 ---
 
 # useState: Guardar Estado en Componentes React
