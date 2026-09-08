@@ -3,7 +3,7 @@ id: "800e23db-f87c-4065-a85c-4cd13b2b2391"
 title: "RTK Query: Core Concepts & How It Works"
 tl_dr: "RTK Query is Redux Toolkit's built-in data fetching and caching layer that eliminates boilerplate for server state management."
 created_at: "2026-09-03T15:03:10.742203+00:00"
-updated_at: "2026-09-03T15:07:03.366664+00:00"
+updated_at: "2026-09-08T15:05:29.438800+00:00"
 source: "web"
 ---
 
