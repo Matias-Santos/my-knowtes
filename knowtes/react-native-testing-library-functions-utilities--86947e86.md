@@ -3,7 +3,7 @@ id: "86947e86-8367-4f1d-8c15-fa18d67b5bd8"
 title: "React Native Testing Library: Functions & Utilities"
 tl_dr: "A practical reference for all React Native Testing Library functions and utilities, and how to apply them in any test."
 created_at: "2026-09-03T13:52:17.388062+00:00"
-updated_at: "2026-09-03T13:53:52.204206+00:00"
+updated_at: "2026-09-08T15:05:48.697477+00:00"
 source: "web"
 ---
 
