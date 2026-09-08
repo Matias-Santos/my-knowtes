@@ -3,7 +3,7 @@ id: "5f2cc185-39b9-4cf3-ace2-fe1e12d3de78"
 title: "React Native End-to-End Testing"
 tl_dr: "End-to-end testing in React Native validates full user flows across the real app stack."
 created_at: "2026-09-03T13:43:02.557425+00:00"
-updated_at: "2026-09-03T13:48:56.490910+00:00"
+updated_at: "2026-09-08T15:05:35.858973+00:00"
 source: "web"
 ---
 
