@@ -3,7 +3,7 @@ id: "390c9caa-11ac-4d22-9f5c-6f9913cc42d1"
 title: "React Native: Platform Overview"
 tl_dr: "React Native is a development platform for building mobile apps using components."
 created_at: "2026-09-05T15:05:48.305293+00:00"
-updated_at: "2026-09-05T15:06:44.950519+00:00"
+updated_at: "2026-10-06T19:00:09.134915+00:00"
 source: "web"
 ---
 
