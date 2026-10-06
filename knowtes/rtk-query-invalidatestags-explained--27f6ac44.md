@@ -3,7 +3,7 @@ id: "27f6ac44-2b3f-46c9-8154-7b46003438e7"
 title: "RTK Query: invalidatesTags Explained"
 tl_dr: "invalidatesTags triggers automatic refetching by marking cached data as stale when a mutation succeeds."
 created_at: "2026-09-03T15:08:19.727443+00:00"
-updated_at: "2026-10-06T18:59:24.116699+00:00"
+updated_at: "2026-10-06T18:59:35.926301+00:00"
 source: "web"
 ---
 
