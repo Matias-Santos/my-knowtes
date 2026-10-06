@@ -3,8 +3,8 @@ id: "5e27a7e3-6be1-49b9-b5a8-f9da4e2a0624"
 title: "RTK Query: Per-Cache Refetch on Invalidation"
 tl_dr: "When a tag is invalidated, RTK Query refetches the affected cache entry — not shared state — and both subscribing components receive the updated result and re-render."
 created_at: "2026-09-08T14:45:26.583119+00:00"
-updated_at: "2026-09-08T14:45:26.583138+00:00"
-source: "claude-sonnet-4-6"
+updated_at: "2026-10-06T18:59:59.205217+00:00"
+source: "web"
 ---
 
 # RTK Query: Per-Cache Refetch on Invalidation
